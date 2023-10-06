@@ -1,0 +1,55 @@
+* {
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    height: 25px;
+    width: 350px;
+    margin-left: 500px;
+    
+    
+    
+}
+
+p {
+    margin-left: 500px;
+}
+
+button {
+    margin-left: 505px;
+    width: 350px;
+    height: 35px;
+    background-color: rgb(245, 245, 142);
+    
+}
+
+h2 {
+    margin-left: 593px;
+    color: gray;
+    
+    
+}
+
+h4 {
+    margin-left: 560px;
+    
+    
+}
+
+h5 {
+    margin-left: 550px;
+    
+}
+
+li {
+    margin-left: 400px;
+}
